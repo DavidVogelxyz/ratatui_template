@@ -1,0 +1,10 @@
+name = "tab2"
+
+[[data]]
+name = "Option 1"
+
+[[data.entries]]
+name = "Test for Tab 2"
+description = "This is a test for Tab 2."
+script = "test/test.sh"
+task_list = "FM"
