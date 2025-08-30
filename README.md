@@ -4,6 +4,8 @@ This repo is entirely based off of Chris Titus' [linutil](https://github.com/Chr
 
 The `linutil` program was entirely stripped from the TUI, leaving only a template for quickly spinning up new projects using Ratatui (🦀).
 
+![Ratatui template GIF](/docs/example.gif)
+
 ## Usage
 
 There are a few files which contained a reference to the `linutil` project. Since this is a template, those entries have all been replaced with placeholders.
